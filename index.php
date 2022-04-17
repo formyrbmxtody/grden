@@ -3,7 +3,7 @@ require_once(realpath(dirname(__FILE__) . '/includes/sqldb.inc.php'));
 require_once(realpath(dirname(__FILE__) . '/includes/Mobile_Detect.php'));
 $query_gs=$file_db->prepare("SELECT * FROM general_settings");
 $query_gs->execute();
-$data_gs=$query_gs->fetch();
+$data_gs=$query_gs->fetch(); 
 $query_lg=$file_db->prepare("SELECT * FROM lp_gu");
 $query_lg->execute();
 $data_lg=$query_lg->fetch();
