@@ -1,0 +1,25 @@
+[29-Nov-2021 13:07:08 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 11 database disk image is malformed in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php:5
+Stack trace:
+#0 /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php(5): PDO->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php on line 5
+[29-Nov-2021 13:07:09 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 11 database disk image is malformed in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php:5
+Stack trace:
+#0 /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php(5): PDO->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php on line 5
+[29-Nov-2021 13:07:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 11 database disk image is malformed in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/gpl.php:5
+Stack trace:
+#0 /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/gpl.php(5): PDO->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/gpl.php on line 5
+[29-Nov-2021 13:07:12 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 11 database disk image is malformed in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php:5
+Stack trace:
+#0 /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php(5): PDO->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php on line 5
+[29-Nov-2021 13:08:44 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 11 database disk image is malformed in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php:5
+Stack trace:
+#0 /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php(5): PDO->prepare('SELECT * FROM s...')
+#1 {main}
+  thrown in /home3/wsaghumy/public_html/gamershacks/roblox/assets/rbparr/rpas.php on line 5
